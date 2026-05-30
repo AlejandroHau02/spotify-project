@@ -1,4 +1,4 @@
 backend/spotify-api/.env
-backend/venv/
-backend/__pycache__/
-frontend/node_modules/
+backend/spotify-api/venv/
+backend/spotify-api/__pycache__/
+frontend/spotify-dashboard/node_modules/
